@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub repo
+
+![](https://komarev.com/ghpvc/?username=estKey&color=blueviolet)
 
 <!--
 **estKey/estkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
